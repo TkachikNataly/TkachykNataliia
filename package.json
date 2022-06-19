@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://yurilov.github.io/resume",
+  "homepage": "https://TkachikNataly.github.io/TkachykNataliia",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /resume/"
+    "build": "parcel build src/*.html --public-url /TkachykNataliia/"
   },
   "repository": {
     "type": "git",
